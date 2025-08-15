@@ -1,4 +1,4 @@
-# 🎬 Netflix Sign-In & Sign-Up Clone
+# Netflix Sign-In & Sign-Up Clone
 
 A **Netflix-inspired** sign-in and sign-up front page clone built using **pure HTML & CSS**.  
 This project is for **practice and learning purposes only** — no backend, no JavaScript, just clean, responsive design.
@@ -8,21 +8,21 @@ This project is for **practice and learning purposes only** — no backend, no J
 
 ---
 
-## 🚀 Features
-- 📱 **Responsive Design** — Works on desktop & mobile  
-- 🎨 **Pixel-perfect Styling** — Mimics Netflix’s official UI  
-- ⚡ **Lightweight** — No frameworks, no JavaScript  
-- 🧩 **Clean Code** — Easy to read and modify  
+##  Features
+-  **Responsive Design** — Works on desktop & mobile  
+-  **Pixel-perfect Styling** — Mimics Netflix’s official UI  
+-  **Lightweight** — No frameworks, no JavaScript  
+-  **Clean Code** — Easy to read and modify  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML5**
 - **CSS3**
 
 ---
 
-## 📷 Preview
+##  Preview
 > ![Netflix Clone Screenshot](Previw-images/Screenshot 2025-08-15 185524.png)
 
 > ![Netflix Clone Screenshot](Previw-images/Screenshot 2025-08-15 185834.png)
@@ -35,9 +35,9 @@ This project is for **practice and learning purposes only** — no backend, no J
 
 ---
 
-## 📜 Disclaimer
+##  Disclaimer
 This project is **not affiliated with Netflix**.  
 All product names, logos, and brands are property of their respective owners.  
 
 ---
-💡 *Built with ❤️ for practice and learning.*
+ *Built with ❤️ for practice and learning.*
