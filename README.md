@@ -29,7 +29,7 @@ This project is for **practice and learning purposes only** — no backend, no J
 
 
 
-> ![Netflix Clone Screenshot](Neflix-clone-Preview/Neflix-demo1.png)
+> ![Netflix Clone Screenshot](Neflix-clone-Preview/Netflix-demo1.png)
 
 > ![Netflix Clone Screenshot](Neflix-clone-Preview/Neflix-demo2.png)
 
