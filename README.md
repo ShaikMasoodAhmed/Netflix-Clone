@@ -9,7 +9,7 @@ This project is for **practice and learning purposes only** — no backend, no J
 ---
 
 ## 🚀 Live Demo  
-🔗 [Click here to try](https://mynetfliclone.netlify.app/)  
+🔗 [Click here to try](https://mynetfli-clone-web.netlify.app/)  
 
 ##  Features
 -  **Responsive Design** — Works on desktop & mobile  
