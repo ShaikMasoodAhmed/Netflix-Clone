@@ -26,7 +26,7 @@ This project is for **practice and learning purposes only** — no backend, no J
 ---
 
 ##  Preview
->![VibeON Preview](Previw-images/Screenshot 2025-08-15 185834.png)  
+>![VibeON Preview](Previw-images/Screenshot 2025-08-15 185524.png)  
 
 > ![Netflix Clone Screenshot](Previw-images/Screenshot 2025-08-15 185834.png)
 
